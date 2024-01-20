@@ -6,6 +6,7 @@ usage:
     cd bin
     java texteditor.Run
 
+
 src:
     package texteditor
     3 class:
